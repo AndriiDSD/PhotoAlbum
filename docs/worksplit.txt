@@ -1,0 +1,25 @@
+Window:                         Group Member:
+
+Login						Andrii Hlyvko		
+Administrative Mode			Andrii Hlyvko
+Create User         		Andrii Hlyvko
+Display Photo				Andrii Hlyvko
+Add Tag						Andrii Hlyvko
+Recaption					Andrii Hlyvko
+Search						Andrii Hlyvko	
+LengthRestrictedDocument    Andrii Hlyvko	
+PicturePanel				Andrii Hlyvko
+
+
+
+Create Album				Nadiia Chepurko
+Interactive Mode			Nadiia Chepurko
+Rename Album				Nadiia Chepurko
+Open Album					Nadiia Chepurko
+Add Photo					Nadiia Chepurko
+Move Photo					Nadiia Chepurko
+CreateAlbumReciever     	Nadiia Chepurko
+SearchDate					Nadiia Chepurko
+SearchTags					Nadiia Chepurko
+
+
